@@ -66,5 +66,28 @@ p{
 
 /* hero area css close */
 
+/* About section csss start */
+
+#about-section{
+
+    background-image: url(./images/shapes/7.png);
+}
+
+.sec-left-width img{
+
+     width: 50%;
+     padding-left: 150px;
+     padding-top: 80px;
+}
+
+#about-section  h1{
+    font-size: 30px;
+}
+
+.sec-right-width.design-content {
+    padding: 80px;
+}
+
+/*close about section */
 
 
