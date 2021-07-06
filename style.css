@@ -90,4 +90,58 @@ p{
 
 /*close about section */
 
+/* recipe section start */
+
+#recipe-section{
+    width: 90%;
+    margin: auto;
+}
+#recipe-title{
+        width: 50%;
+        margin: auto;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+#recipe-title h1{
+        font-size:35px;
+    }
+    
+}
+
+#recipe-title h1,p{
+
+    text-align:center;
+    
+}
+
+
+#recipe-section .food-item {
+    width: 50%;
+
+}
+.food-item{
+
+    margin: 0px 20px;
+    border-radius: 2px solid red;
+    box-shadow: 5px 5px 20px 5px silver;
+    border-radius: 25px;
+}
+
+
+#recipe-section .food-item img{
+padding: 10px;
+width: 90%;
+}
+.food-item h3,p{
+
+    padding: 5px 20px;
+}
+
+/* close my recipe section */
+
+
+
+
+
+
 
