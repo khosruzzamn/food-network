@@ -95,6 +95,7 @@ p{
 #recipe-section{
     width: 90%;
     margin: auto;
+    margin-bottom: 100px;
 }
 #recipe-title{
         width: 50%;
@@ -138,6 +139,35 @@ width: 90%;
 }
 
 /* close my recipe section */
+
+/* skill section start */
+
+#skill-section{
+
+   margin: auto;
+}
+
+.skill-item{
+
+    margin: auto;
+    text-align:center;
+    padding: 40px 40px;
+}
+.skill-item h1,p{
+    margin:0px;
+}
+
+.skill-all-item {
+    width: 86%;
+    margin: auto;
+    box-shadow: 2px 1px 2px 2px silver;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+/* close skill section */
 
 
 
