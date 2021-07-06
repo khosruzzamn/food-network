@@ -39,6 +39,35 @@ p{
 
 /* global css close */
 
+/*header section start */
+
+.left-menu img {
+    width: 20% !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.right-menu ul li a {
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 20px;
+    color: #fba24f;
+}
+
+.right-menu li{
+
+    display: inline-block;
+}
+
+.right-menu ul{
+
+    float: right;
+}
+
+.left-menu.sec-left-width {
+    margin-left: 93px;
+    width: 40% !important;
+    width: 10;
+}
 /* Hero area css start */
 
 .h-text-color{
@@ -171,7 +200,7 @@ width: 90%;
 
 /*footer section content */
 
-.footer-section{
+#footer-section{
 
   background-color: black;
   text-align: center;
