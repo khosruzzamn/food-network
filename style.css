@@ -169,6 +169,27 @@ width: 90%;
 
 /* close skill section */
 
+/*footer section content */
+
+.footer-section{
+
+  background-color: black;
+  text-align: center;
+
+}
+
+.footer-content h1 {
+    font-size: 36px;
+    padding-top: 30px;
+    margin-top: 96px;
+}
+.footer-content p{
+
+    padding-bottom: 20px;
+}
+.footer-content p {
+    padding-bottom: 105px;
+}
 
 
 
